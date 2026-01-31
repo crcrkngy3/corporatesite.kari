@@ -259,7 +259,7 @@ culture-img{
 }
 
 /* セクション内の外枠 */
-#vison > div {
+#vision > div {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
