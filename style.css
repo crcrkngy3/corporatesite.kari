@@ -120,7 +120,7 @@ h3{
 
 
 /*  プロダクト */
-#prodact{
+#product{
   background-color: #fafafa;
   margin: 80px 0 80px 0;
   padding: 10px 40px 0px 40px;
@@ -193,7 +193,7 @@ h3{
   margin: 0;
 }
 
-/* もっとみるボタン */
+/* もっと見るボタン */
 #product-more {
  text-align: center;  
 }
@@ -207,7 +207,7 @@ h3{
   margin: 80px auto 80px auto;
 }
 
-/* 3つの組織文化と画像を入れる枠 */
+/* ３つの組織文化と写真を入れる枠 */
 #aboutus > div {
   display: flex;
 }
@@ -362,7 +362,7 @@ culture-img{
   padding-bottom: 30px;
 }
 
-/* 左列の見出し */
+/* 左列 見出し */
 .contact-heading{
   width: 240px;
   align-self: center;
@@ -389,8 +389,8 @@ culture-img{
   border-bottom-color:#707070 ;
   border-style: solid;
   background-color: #fafafa;
-  width: 400px;
-  height: 56px;
+  height:  56px;
+  width:  400px;
 }
 
 /* お問い合わせ内容のテキストエリア */
@@ -449,7 +449,7 @@ footer{
 }
 
 #footer-link > a:hover{
-  text-decoration: unnderline;
+  text-decoration: underline;
 }
 
 #sns-footer{
