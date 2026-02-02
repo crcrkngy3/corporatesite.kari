@@ -426,3 +426,42 @@ culture-img{
   margin-bottom: 0;
   list-style: none;
 }
+
+/* フッター */
+footer{
+  background-color: #0d0d0d;
+  text-align: center;
+  padding: 80px 80px 30px 80px;
+}
+
+#footer-logo{
+  margin-bottom: 30px;
+}
+
+#footer-link{
+  margin-bottom: 50px;
+}
+
+#footer-link > a{
+  text-decoration: none;
+  margin: 10px;
+  color: #ffffff;
+}
+
+#footer-link > a:hover{
+  text-decoration: unnderline;
+}
+
+#sns-footer{
+  display: flex;
+  justify-content: space-between;
+}
+
+#sns-footer a{
+  margin-right: 30px;
+}
+
+#copyright{
+  color: #ffffff;
+  margin: 0;
+}
